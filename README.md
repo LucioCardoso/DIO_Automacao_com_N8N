@@ -1,3 +1,4 @@
+![Phython](Python.jpg)
 # Notebook: Aprendendo Python
 
 ## 1. Tema e Objetivo do Notebook
