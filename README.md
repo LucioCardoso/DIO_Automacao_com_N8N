@@ -63,7 +63,7 @@ O notebook está programado para atuar estritamente sob a seguinte diretriz de c
 
 ---
 
-## 4. Resumo Técnico: A Linguagem Python e o Conceito de Decoradores
+## 4. Exemplos de Pesquisas Realizadas: A Linguagem Python e o Conceito de Decoradores
 
 ### 4.1. Resumo da Linguagem Python
 * **Origem e Criação:** Criada por **Guido van Rossum** entre 1985 e 1990 (com código aberto sob a licença GPL), a linguagem foi projetada para priorizar a legibilidade do código e a produtividade do desenvolvedor [337].
@@ -147,4 +147,4 @@ Resultado do cálculo: 416666625000000000
 ---
 
 ## 5. Link do Notebook Compartilhado
-* **Acesse o caderno completo no Gemini Notebook:** [Link para o Notebook Aprendendo Python](https://notebooklm.google.com/)
+* **Acesse o caderno completo no Gemini Notebook:** [Link para o Notebook Aprendendo Python]([https://notebooklm.google.com/](https://notebook.google.com/notebook/0f0fb38d-d578-4468-b579-3338789a7662))
