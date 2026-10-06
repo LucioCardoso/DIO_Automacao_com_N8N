@@ -147,4 +147,4 @@ Resultado do cálculo: 416666625000000000
 ---
 
 ## 5. Link do Notebook Compartilhado
-* **Acesse o caderno completo no Gemini Notebook:** [Link para o Notebook Aprendendo Python]([https://notebooklm.google.com/](https://notebook.google.com/notebook/0f0fb38d-d578-4468-b579-3338789a7662))
+* **Acesse o caderno completo no Gemini Notebook:** [Link para o Notebook Aprendendo Python]((https://notebook.google.com/notebook/0f0fb38d-d578-4468-b579-3338789a7662))
