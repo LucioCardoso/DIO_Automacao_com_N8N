@@ -12,7 +12,7 @@ A entrada contem três linhas. A primeira linha traz o tipo do evento, podendo s
 
 Exiba uma unica linha com uma das mensagens: PROCESSAR, AGENDAR, FALHA, ANALISAR ou IGNORAR, conforme as regras descritas.
 
-Exemplos
+## Exemplos
 A tabela abaixo apresenta exemplos de entrada e saída:
 
 | Entrada |Saída  |
